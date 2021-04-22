@@ -1,0 +1,2 @@
+Run the app using Android studio with data switched on
+Run the python backend program to start listening to the app
